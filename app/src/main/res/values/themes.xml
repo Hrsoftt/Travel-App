@@ -2,4 +2,25 @@
 <resources>
 
     <style name="Theme.GoTravels" parent="android:Theme.Material.Light.NoActionBar" />
+<!--    <style name="Theme.App" parent="Theme.Material3.Light.NoActionBar">-->
+<!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+<!--        <item name="colorOnPrimary">@color/colorOnPrimary</item>-->
+<!--        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>-->
+<!--        <item name="colorOnPrimaryVariant">@color/colorOnPrimaryVariant</item>-->
+<!--        <item name="colorSecondary">@color/colorSecondary</item>-->
+<!--        <item name="colorOnSecondary">@color/colorOnSecondary</item>-->
+<!--        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>-->
+<!--        <item name="colorOnSecondaryVariant">@color/colorOnSecondaryVariant</item>-->
+<!--    </style>-->
+
+<!--    <style name="Theme.App.Dark" parent="Theme.Material3.Dark.NoActionBar">-->
+<!--        <item name="colorPrimary">@color/colorPrimaryDark</item>-->
+<!--        <item name="colorOnPrimary">@color/colorOnPrimaryDark</item>-->
+<!--        <item name="colorPrimaryVariant">@color/colorPrimaryVariantDark</item>-->
+<!--        <item name="colorOnPrimaryVariant">@color/colorOnPrimaryVariantDark</item>-->
+<!--        <item name="colorSecondary">@color/colorSecondaryDark</item>-->
+<!--        <item name="colorOnSecondary">@color/colorOnSecondaryDark</item>-->
+<!--        <item name="colorSecondaryVariant">@color/colorSecondaryVariantDark</item>-->
+<!--        <item name="colorOnSecondaryVariant">@color/colorOnSecondaryVariantDark</item>-->
+<!--    </style>-->
 </resources>
